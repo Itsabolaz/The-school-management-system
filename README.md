@@ -63,13 +63,21 @@ Dashboard:
 
 View analytics, including total counts and distribution charts for students and teachers.
 Manage upcoming events and reminders in the calendar view.
-Student Management:
+
+Student and Parents Management:
 
 Add new student records along with their respective parents.
 Filter records by class or name for quick access.
+
+Teachers Management: 
+
+Add new teacher records, Edit teacher informations(and avatar) and delete the teacher.
+Filter records by class or name for quick access.
+
 Schedule Management:
 
 Access weekly schedules per grade and filter by grade level.
+
 User Settings:
 
 Update personal information for logged-in users and manage permissions based on their roles.
