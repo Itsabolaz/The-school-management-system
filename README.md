@@ -17,10 +17,10 @@ The **Future Leaders School Management System** is a desktop-focused application
 
 This system is built with a range of useful features to simplify school data management:
 
-- **Student, Parent, and Teacher Management**:
+- **Student, Parents, and Teacher Management**:
   - Add, delete, and update records for students, parents, and teachers.
   - Synchronized addition and removal of students and their associated parents.
-  - Filter student, parent, and teacher records by name or class.
+  - Filter student, parents, and teacher records by name or class.
 
 - **Class Schedule Management**:
   - View, and filter weekly class schedules from grades 1 to 6.
@@ -44,7 +44,7 @@ This system is built with a range of useful features to simplify school data man
 The project is developed using the following technologies and libraries:
 
 - **HTML & CSS**
-- **Tailwind CSS** - for responsive and utility-first styling
+- **Tailwind CSS** - for utility-first styling
 - **JavaScript** - for frontend scripting
 - **React** - as the frontend framework
 - **Context API** - for global state management across the app
