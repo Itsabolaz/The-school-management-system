@@ -1,6 +1,6 @@
 # Future Leaders School - School Management System
 
-The **Future Leaders School Management System** is a desktop-focused application designed to streamline the management of essential school data, including students, parents, teachers, weekly schedules, and important reminders. The application provides a well-organized and efficient platform for school administrators, allowing them to handle data and visualize insights related to the school community.
+The **Future Leaders School Management System** is a **desktop-focused** application designed to streamline the management of essential school data, including students, parents, teachers, weekly schedules, and important reminders. The application provides a well-organized and efficient platform for school administrators, allowing them to handle data and visualize insights related to the school community.
 
 [View the live project here](https://future-leaders-school.netlify.app)
 
